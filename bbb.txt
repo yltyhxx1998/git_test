@@ -1,0 +1,4 @@
+解压密码：uestc
+注意！
+1、第一次打开虚拟机时，请选择“我已移动该虚拟机”，否则license会失效
+2、使用vcs时请加 -full64 ,即vcs file.v -full64
